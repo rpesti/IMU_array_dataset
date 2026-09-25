@@ -7,4 +7,3 @@ The sensor array was rigidly mounted on the end effector of a calibrated UR5 rob
 
 Sampling frequency: 80 Hz
 
-Authors: Richard Pesti, Peter Sarcevic, Akos Odry
